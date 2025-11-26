@@ -1,3 +1,5 @@
-module github.com/perseusjhz/Titan-X
+module github.com/Perseusjhz/Titan-X
 
 go 1.25.1
+
+require github.com/shopspring/decimal v1.4.0
